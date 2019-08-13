@@ -15,7 +15,7 @@ public class LetStart {
 	}
 
 	private static void setSpeed() {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub ;[
 		
 	}
 }
