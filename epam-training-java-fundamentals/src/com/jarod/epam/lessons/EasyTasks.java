@@ -5,36 +5,36 @@ package com.jarod.epam.lessons;
 // yes, в противном случае - no
 
 public class EasyTasks {
-	
+
 	public static void main(String[] args) {
-		
+
 		int a = 234;
 		int b = 98;
-		
-		// 1 
+
+		// 1
 		boolean bool;
-		bool = a < b; // true
-		
+		bool = a < b; // false
+
 		if (bool) {
 			System.out.println("yes");
-		}else {
+		} else {
 			System.out.println("no");
 		}
-		
+
 		System.out.println("`````````````");
-		
-		// 2 
+
+		// 2
 		if (a < b) {
-			System.out.println("yes");
-		}else {
-			System.out.println("no");
+			System.out.println("less");
+		} else {
+			System.out.println("more");
 		}
-		
+
 		System.out.println("`````````````");
 
 		// 3
 		String answer;
-		 answer = (a < b) ? "yes" : "no"; 
-			 System.out.println(answer);
+		answer = (a < b) ? "yes" : "no";
+		System.out.println(answer);
 	}
 }
