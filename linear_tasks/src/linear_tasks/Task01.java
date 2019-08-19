@@ -18,6 +18,8 @@ public class Task01 {
 	 * public void setY(int y) { this.y = y; }
 	 */
 
+	@SuppressWarnings("resource")
+	
 	public static void main(String[] args) {
 		/*
 		 * Task01 exmpl = new Task01(); exmpl.setX(100); exmpl.setY(200);
@@ -34,15 +36,16 @@ public class Task01 {
 				x = s.nextInt();
 				y = s.nextInt();
 				
-				System.out.println("Sum of x + y = " + (x + y));
-				System.out.println("Difference of x + y = " + (x - y));
-				System.out.println("Multi of x + y = " + (x * y));
-				System.out.println("Divide of x + y = " + (x / y));
 				break;
 				
 			} catch (Exception e) {
 				System.out.println("Invalid input, sorry. Try again!");
 			}
 		}
+		
+		System.out.println("Sum of x + y = " + (x + y));
+		System.out.println("Difference of x + y = " + (x - y));
+		System.out.println("Multi of x + y = " + (x * y));
+		System.out.println("Divide of x + y = " + (x / y));
 	}
 }

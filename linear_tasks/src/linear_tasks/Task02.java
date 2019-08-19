@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class Task02 {
 
+	@SuppressWarnings("resource")
+	
 	public static void main(String[] args) {
 		int a;
 		
@@ -16,10 +18,11 @@ public class Task02 {
 			Scanner s = new Scanner(System.in);
 			a = s.nextInt();
 			
-			System.out.println("c = " + (3 + a) );
 			break;
 		} catch (Exception e) {
 			System.out.println("Invalid input, pls try again!");
 		}
+		
+		System.out.println("c = " + (3 + a) );
 	}
 }

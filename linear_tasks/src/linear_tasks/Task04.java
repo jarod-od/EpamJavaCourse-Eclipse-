@@ -6,7 +6,9 @@ import java.util.Scanner;
 
 public class Task04 {
 
- 	public static void main(String[] args) {
+ 	@SuppressWarnings("resource")
+ 	
+	public static void main(String[] args) {
  		int a;
  		int b;
  		int c;
@@ -20,11 +22,12 @@ public class Task04 {
  				b = s.nextInt();
  				c = s.nextInt();
  				
- 				System.out.println("z = " + ( (a - 3) * b / 2 + c) );
  				break;
  		} catch (Exception e) {
  			System.out.println("Invalid input, pls try again !");
  		}
- 		
+ 			int z =  (a - 3) * b / 2 + c;
+ 			
+			System.out.println("z = " + z );
  	}
 }
