@@ -2,23 +2,23 @@ package linear_tasks;
 
 // (b + (корень из - b во второй степени + 4 умножить на а и с) делить на 2 * а) 
 // минус а в третьей степени умножить на с + b  в минус второй степени
+
+// (b + sqrt(b^2 + 4ac)) / 2a - a^3 c + b ^ (-2)
+
 // Все переменные принимают действительные значения.
 
 import java.util.Scanner;
 
 public class Task08 {
-	
-//	TODO 
-	
+		
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		double a;
 		double b;
 		double c;
-		
-		char ch = '\u221A';
-		
-		System.out.println("b + " + ch + "b * b + (4ac) / 2a - a^3 * c + b^-2");
+				
+		System.out.println( "Function: (b + sqrt(b^2 + 4ac)) / 2a - a^3 c + b ^ (-2)");
 		
 		while (true)
 			try{
@@ -35,8 +35,8 @@ public class Task08 {
 			System.out.println("Invalid input, pls try again");
 		}
 		
-		double firstPart;
+		double z = (b + Math.sqrt(b * b + 4. * a * c)) / 2. * a - a * a * a * c + 1. / (b * b);
 		
-		
+		System.out.println("Z = " + z);
 	}
 }
