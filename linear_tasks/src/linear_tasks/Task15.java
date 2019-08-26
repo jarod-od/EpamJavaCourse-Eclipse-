@@ -9,7 +9,7 @@ public class Task15 {
 		System.out.println("Pi^1,2,3,4");
 		
 		double pi = 1.;
-		for (double i = 1; i <= 4; i++) {
+		for (int i = 1; i <= 4; i++) {
 			pi = pi * Math.PI;
 			
 			System.out.println("Power of Pi is: " + pi); 
