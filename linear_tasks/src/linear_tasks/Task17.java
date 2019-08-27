@@ -5,6 +5,7 @@ package linear_tasks;
 import java.util.Scanner;
 
 public class Task17 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		System.out.println("Find midrange cube of numbers");
@@ -36,7 +37,7 @@ public class Task17 {
 		System.out.println("Midrange of cubes number is: " + midrangeCube);
 		
 		
-		midrangeGeometricModules = Math.sqrt(a * b);// TODO
+		midrangeGeometricModules = Math.sqrt(a * b);
 		
 		System.out.println("MidrangeGeometricModules is: " + midrangeGeometricModules);
 	}
