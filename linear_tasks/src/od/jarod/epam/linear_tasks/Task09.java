@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 // Вычислить значение выражения по формуле. Все переменные принимают действительные значения
 // (a/c * b/d) -(ab - c) / cd

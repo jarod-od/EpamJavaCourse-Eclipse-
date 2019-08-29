@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 // Дана длина ребра куба. Найти площадь грани, площадь полной поверхности и объем этого куба.
 

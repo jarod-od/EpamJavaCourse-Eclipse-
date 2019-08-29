@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 // Вычислить расстояние между двумя точками (х1, у1) и (x2, y2).
 

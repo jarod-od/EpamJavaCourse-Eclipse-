@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 // Найдите значение функции: z = ((a - 3) * b / 2) + c.
 

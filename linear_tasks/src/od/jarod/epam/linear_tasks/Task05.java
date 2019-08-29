@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 // Составить алгоритм нахождения среднеарифметического двух чисел.
 

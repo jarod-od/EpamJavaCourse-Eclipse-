@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 // Написать программу, которая выводит на экран первые четыре степени числа Пи
 

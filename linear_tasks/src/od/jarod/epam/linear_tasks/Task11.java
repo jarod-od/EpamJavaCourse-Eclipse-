@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 // Вычислить периметр и площадь прямоугольного треугольника, по длинам a и b двух катетов
 

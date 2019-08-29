@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 // Вычислить длину окружности и площадь круга одного и того же заданного радиуса R
 

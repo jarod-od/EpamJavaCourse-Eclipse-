@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 // Дан прямоугольник, ширина которого в два раза меньше длины. Найти площадь прямоугольника.
 

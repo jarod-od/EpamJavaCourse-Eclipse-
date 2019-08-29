@@ -1,4 +1,4 @@
-package linear_tasks;
+package od.jarod.epam.linear_tasks;
 
 //  Вычислить значение выражения по формуле (все переменные принимают действительные значения):  
 //   (sin x + cos x) / (cos x - sin y) * tg xy
