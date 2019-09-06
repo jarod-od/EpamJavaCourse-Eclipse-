@@ -7,7 +7,7 @@ package od.jarod.epam.condition_tasks;
 
 import java.util.Scanner;
 
-public class Task11 {
+public class Task12 {
 
 	public static void main(String[] args) {
 
@@ -37,21 +37,21 @@ public class Task11 {
 		if (a >= 0) {
 			System.out.println("a is: " + Math.pow(a, 2));
 			
-		} else if (a < 0) {
+		} else {
 			System.out.println("a is: " + Math.pow(a, 4));
 		}
 
 		if (b >= 0) {
 			System.out.println("b is: " + Math.pow(b, 2));
 			
-		} else if (b < 0) {
+		} else {
 			System.out.println("b is: " + Math.pow(b, 4));
 		}
 
 		if (c >= 0) {
 			System.out.println("c is: " + Math.pow(c, 2));
 			
-		} else if (c < 0) {
+		} else {
 			System.out.println("c is: " + Math.pow(c, 4));
 
 		}
