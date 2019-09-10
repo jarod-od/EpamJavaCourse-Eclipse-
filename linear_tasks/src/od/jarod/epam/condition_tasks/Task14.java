@@ -27,9 +27,17 @@ public class Task14 {
 				System.out.println("Input invalid, pls try again!");
 		}
 		
+		if (angle1 + angle2 >= 180 || angle1 <= 0 || angle2 <= 0) {
+			System.out.println("Triangle does not exist!");
+		} else {
+			System.out.println("Triangle is exist!");
 		
 		
-		
-		
+		if (angle1 == 90 || angle2 == 90 || angle1 + angle2 == 90) {
+			System.out.println("Triangle is rectangular!");
+		} else {
+			System.out.println("Triangle is not rectangular!");
+		}
 	}
+  }
 }
