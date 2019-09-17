@@ -14,17 +14,16 @@ public class Task21 {
 		
 		System.out.println("Кто ты: мальчик или девочка?");
 
-		char s = 'М';
-		String s2 = "Ж";
+		char s;
 		
 		while (true) {
 			
 			try {
 				System.out.println(" Input 'М' or 'Д'");
-				
+				System.out.print("> ");
+
 				Scanner sc = new Scanner(System.in);
-				//s = sc.next();
-				s2 = sc.nextLine();
+				s = sc.next().charAt(0);
 				
 				break;
 				
@@ -33,10 +32,15 @@ public class Task21 {
 			}
 		}
 		
-		if (s != 'М' ) {
+		if (s == 'М' ) {
+			System.out.println("Мне нравятся мальчики!");
 			
+		} else if (s == 'Д') {
+			System.out.println("Мне нравятся девочки!");
+			
+		} else {
+			System.out.println("Try again!");
 		}
-		
 		
 	}
 }
