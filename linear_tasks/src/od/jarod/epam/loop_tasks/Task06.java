@@ -29,13 +29,12 @@ public class Task06 {
 			}
 		}
 
-		if (a != 0 && (a / a) == 1) 
+		//if (a != 0 && (a / a) == 1) TODO запилить проверку, как узнаю 
 			
 			for (int i = 1; i <= a; i++) {
 				sum = sum + i;
 			}
 			System.out.println(sum);
-
 		}
 	}
 
