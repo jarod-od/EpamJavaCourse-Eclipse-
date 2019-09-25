@@ -2,7 +2,7 @@ package od.jarod.epam.loop_tasks;
 
 // Найти сумму квадратов первых ста чисел
 
-public class Task9 {
+public class Task09 {
 
 	public static void main(String[] args) {
 
