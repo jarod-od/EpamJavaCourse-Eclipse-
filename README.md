@@ -1,6 +1,6 @@
 # EpamJavaCourse-Eclipse-
 
-<strong>Теория:<strong>
+<strong>Теория:</strong>
 
 Java fundamentals -
 основы языка, примитивные типы данных, массивы.</br>
