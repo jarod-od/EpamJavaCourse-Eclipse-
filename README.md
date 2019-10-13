@@ -1,5 +1,6 @@
 # EpamJavaCourse-Eclipse-
 
+Теория:
 
 Java fundamentals -
 основы языка, примитивные типы данных, массивы.</br>
@@ -15,7 +16,7 @@ Strings -
 
 
 
-  <strong>Сылки на - практические занятия.</strong>
+  <strong>Сылки на - практические занятия:</strong><br>
 https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam
 - Задачи: Линейные выражения.
 - Задачи: Ветвления.
