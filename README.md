@@ -18,15 +18,29 @@ Strings -
 
   <strong>Сылки на - практические занятия:</strong><br>
 https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam
-- Задачи: Линейные выражения.
-- Задачи: Ветвления.
-- Задачи: Циклы.
-- Задачи: Декомпозиция.
-- Задачи: Массивы.
-- Задачи: Массивы массивов.
-- Задачи: Массивы. Сортировки.
-- Задачи: ООП
+
+- Задачи: Линейные выражения. <br>
+https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/linear_tasks
+
+- Задачи: Ветвления.<br>
+https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/condition_tasks
+
+- Задачи: Циклы.<br>
+https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/loop_tasks
+
+- Задачи: Декомпозиция.<br>
+
+- Задачи: Массивы.<br>
+https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/arrays_part1
+
+- Задачи: Массивы массивов.<br>
+
+- Задачи: Массивы. Сортировки.<br>
+
+- Задачи: ООП<br>
 
 
 
-- Код из лекций.
+
+- <h2>Код из лекций.<h2> <br>
+https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/epam-training-java-fundamentals/src/com/jarod/epam/lessons
