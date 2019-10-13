@@ -28,17 +28,16 @@ Strings -
 <a href="https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/loop_tasks">
 - Задачи: Циклы.</a><br>
 
-- Задачи: Декомпозиция.<br>
-
 <a href="https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/arrays_part1">
 - Задачи: Массивы.</a><br>
+
+- Задачи: Декомпозиция.<br>
 
 - Задачи: Массивы массивов.<br>
 
 - Задачи: Массивы. Сортировки.<br>
 
 - Задачи: ООП<br>
-
 
  <h2> 
 <a href="https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/epam-training-java-fundamentals/src/com/jarod/epam/lessons">
