@@ -1,4 +1,5 @@
 # EpamJavaCourse-Eclipse-
+https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam
 
 Java fundamentals -
 основы языка, примитивные типы данных, массивы.</br>
