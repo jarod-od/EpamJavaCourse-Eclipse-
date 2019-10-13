@@ -14,24 +14,24 @@ Exceptions -
 Strings - 
 работа со строками
 
+<hr>
 
+  <strong><a href="https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam">
+  Сылки на - практические занятия:</a></strong><br>
 
-  <strong>Сылки на - практические занятия:</strong><br>
-https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam
+<a href="https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/linear_tasks">
+- Задачи: Линейные выражения. </a><br>
 
-- Задачи: Линейные выражения. <br>
-https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/linear_tasks
+<a href="https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/condition_tasks">
+- Задачи: Ветвления.</a><br>
 
-- Задачи: Ветвления.<br>
-https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/condition_tasks
-
-- Задачи: Циклы.<br>
-https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/loop_tasks
+<a href="https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/loop_tasks">
+- Задачи: Циклы.</a><br>
 
 - Задачи: Декомпозиция.<br>
 
-- Задачи: Массивы.<br>
-https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/arrays_part1
+<a href="https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src/od/jarod/epam/arrays_part1">
+- Задачи: Массивы.</a><br>
 
 - Задачи: Массивы массивов.<br>
 
@@ -40,7 +40,17 @@ https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/linear_tasks/src
 - Задачи: ООП<br>
 
 
-
-
-- <h2>Код из лекций.<h2> <br>
-https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/epam-training-java-fundamentals/src/com/jarod/epam/lessons
+ <h2> 
+<a href="https://github.com/jarod-od/EpamJavaCourse-Eclipse-/tree/master/epam-training-java-fundamentals/src/com/jarod/epam/lessons">
+-Код из лекций.</a></h2><br>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
