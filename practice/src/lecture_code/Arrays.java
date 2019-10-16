@@ -3,7 +3,7 @@ package lecture_code;
 public class Arrays {
 
 		public static void main(String[] args) {
-
+// test
 			int[] arr = new int[4];
 			arr[0] = 2;
 			arr[2] = 99;
@@ -32,4 +32,4 @@ public class Arrays {
 		}
 	}
 
-}
+
