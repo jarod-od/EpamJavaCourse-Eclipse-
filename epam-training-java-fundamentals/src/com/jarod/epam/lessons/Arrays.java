@@ -18,10 +18,6 @@ public class Arrays {
 		System.out.println(arr[0]);
 		
 		
-		
-		
-		
-		
 		boolean[] bool = new boolean[2];
 		System.out.println(bool[1]);
 
