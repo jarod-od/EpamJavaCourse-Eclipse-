@@ -21,14 +21,14 @@ public class ArrayFindNegativeElements {
 		int pozitiveIndex = 0; // Внутренняя переменная счетчиков для индексации по массивам
 		int negativeIndex = 0;
 		
-		for (int i = 0; i < elements.length; i++) {
+		for (int i = 0; i < elements.length; i++) { // Перебераем и складываем отрицательные значения
 			if (elements[i] < 0) {
-				negativeElements[negativeIndex] = elements[i];
-				negativeIndex++;
+				negativeElements[negativeIndex++] = elements[i];
+				//negativeIndex++;
 				
-			} else {
-				pozitiveElements[pozitiveIndex] = elements[i];
-				pozitiveIndex++;	
+			} else {                         // Перебераем и складываем позитивные значения
+				pozitiveElements[pozitiveIndex++] = elements[i];
+				//pozitiveIndex++;	
 			}	
 		}
 		for (int i = 0; i < pozitiveElements.length; i++) {
